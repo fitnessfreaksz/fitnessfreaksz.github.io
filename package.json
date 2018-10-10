@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/fitnessfreaksz/fitnessfreaksz.github.io#readme",
   "dependencies": {
+    "angular": "^1.7.5",
     "bootstrap": "^4.1.3",
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0",
