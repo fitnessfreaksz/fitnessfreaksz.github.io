@@ -1,0 +1,36 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "Fitness Freakers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fitnessfreaksz/fitnessfreaksz.github.io.git"
+  },
+  "keywords": [
+    "fitness",
+    "stayfit",
+    "loseweight",
+    "staystrong",
+    "website",
+    "fullstack",
+    "project",
+    "exercise",
+    "workout"
+  ],
+  "author": "Cyberpunks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fitnessfreaksz/fitnessfreaksz.github.io/issues"
+  },
+  "homepage": "https://github.com/fitnessfreaksz/fitnessfreaksz.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1"
+  }
+}
