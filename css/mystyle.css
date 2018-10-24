@@ -173,7 +173,9 @@ tr td:first-child {
 tr td:nth-child(2), tr th:nth-child(2) {
     padding-left: 90px !important;
 }
-
+.img-fit{
+	width: 100%;
+}
 .img-fit>img{
 	width: 100%;
 	transition: 0.3s ease;
@@ -193,3 +195,10 @@ footer {
 p.footer{
 	color: rgba(255,255,255,.75);
 }
+section{
+	margin-left: 0;
+}
+.container{
+	margin-left: 0;
+}
+
