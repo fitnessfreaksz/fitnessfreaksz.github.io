@@ -18,7 +18,7 @@
             "step2":"Roll your shoulder blades up from the glideboard by pushing on the handles while keeping your arms extended and lower yourself back down after a short pause.",
             "step3":"To avoid pulling your neck with your hands, look straight up instead of looking at your knees."
         },
-        "time":400,
+        "time":300,
         "stress":"Abdominal Muscles"
     },
     "Inclined Crunch with Feet Attached":{
@@ -29,7 +29,7 @@
             "step2":"Roll your shoulder blades up from the glideboard while keeping your lower back in contact with it and lower yourself back down after a short pause.",
             "step3":"Roll your shoulder blades up from the glideboard while keeping your lower back in contact with it and lower yourself back down after a short pause."
         },
-        "time":400,
+        "time":200,
         "stress":"Abdominal Muscles"
     },
    
@@ -41,7 +41,7 @@
             "step2":"Roll your shoulder blades up from the glideboard while at the same time pulling yourself up closer to your feet by bending your knees and lower yourself back down after a short pause.",
             "step3":"To avoid pulling your neck with your hands, look straight up instead of looking at your knees."
         },
-        "time":400,
+        "time":500,
         "stress":"Knee joint"
     },
     "Sit-Up with Feet Attached":{
@@ -52,7 +52,7 @@
             "step2":"Roll your upper body up until your lower back no longer touches the glideboard and lower yourself back down after a short pause.",
             "step3":"To avoid pulling your neck with your hands, look straight up instead of looking at your knees."
         },
-        "time":400,
+        "time":300,
         "stress":"Abdominal Muscles"
     },
     "Sit-Up with Cable":{
@@ -74,7 +74,7 @@
             "step2":"While keeping the angles in your elbows still, pull the handles towards the other side of your trunk and allow yourself back to the starting position after a short pause.",
             "step3":"Keep your back straight throughout."
         },
-        "time":400,
+        "time":600,
         "stress":" Abdominal oblique Muscles"
     },
     "Jacknife Sit-Up":{
@@ -85,7 +85,7 @@
             "step2":"Roll your upper body up until your lower back no longer touches the glideboard and until your arms are parallel to your legs and lower yourself down after a short pause.",
             "step3":"Try to keep your back, legs and arms straight throughout."
         },
-        "time":400,
+        "time":300,
         "stress":"Rectus abdominis"
     },
     "Low Leg Pull-In":{
@@ -96,7 +96,7 @@
             "step2":"Pull yourself back towards your hands by bending your hips and knees and push yourself back up after a short pause.",
             "step3":"Keep your arms extended and perpendicular to the floor throughout."
         },
-        "time":400,
+        "time":100,
         "stress":"Back muscles and abdominals"
     },
     "High Leg Pull-In":{
@@ -107,7 +107,7 @@
             "step2":"Pull yourself back towards the toe bar while keeping your arms and upper body fully extended and push yourself back up after a short pause.",
             "step3":"Be careful not to back yourself too far out up to a point where you would lose balance"
         },
-        "time":400,
+        "time":300,
         "stress":"abdominal Muscles"
     },
     "Side Plank":{
@@ -118,7 +118,7 @@
             "step2":"Bring the arm that is free up above your head and extend it so that is parallel to the mat and hold for a few seconds before bringing it back.",
             "step3":"Only the arm that is free should be moving throughout the exercise"
         },
-        "time":400,
+        "time":500,
         "stress":"transversus abdominis muscle, gluteus medius and gluteus minimus muscles (abductors), the adductor muscles of the hip, and the external, and internal obliques"
     },
     "Hyperextension":{
@@ -129,7 +129,7 @@
             "step2":"Raise your upper body from the glideboard as high as you can by contracting your lower back muscles and bring yourself back down after a short pause.",
             "step3":"You may rest your hands behind your head to add a further level of difficulty."
         },
-        "time":400,
+        "time":200,
         "stress":"Lower back Muscles"
     },
     "Row":{
@@ -140,7 +140,7 @@
             "step2":"Slide the glideboard up by pulling on the handles towards the sides of your navel and allow yourself back down after a short pause.",
             "step3":"Keep your back straight throughout."
         },
-        "time":400,
+        "time":500,
         "stress":"Forearm muscles and the upper arm muscles"
     },
     "Crossover Row":{
@@ -162,7 +162,7 @@
             "step2":"Slide the glideboard up by pulling on the handles towards the sides of your navel and allow yourself back down after a short pause.",
             "step3":"Keep your back straight throughout."
         },
-        "time":400,
+        "time":200,
         "stress":"Middle and Lower Muscles"
     },
     "Row with Hyperextension":{
@@ -173,7 +173,7 @@
             "step2":"Slide the glideboard up while raising your upper body up by pulling the handles towards the sides of your navel and allow yourself back down after a short pause.",
             "step3":"Breathe out while raising yourself and breathe in while lowering yourself back."
         },
-        "time":400,
+        "time":100,
         "stress":"upper back Muscles"
     },
     "Back Fly":{
@@ -184,7 +184,7 @@
             "step2":"Slide the glideboard up by pulling on the handles towards the sides of your body and allow yourself back down after a short pause",
             "step3":"Keep your arms fully extended throughout (or keep the small bend in your elbows constant)."
         },
-        "time":400,
+        "time":120,
         "stress":"Back Muscles and rear shoulder muscles"
     },
     "Rotating Back Fly":{
@@ -195,7 +195,7 @@
             "step2":"Slide the glideboard up by pulling on one handle towards its side of your body and allow yourself back down after a short pause. Alternate sides between repetitions.",
             "step3":"Keep your arms fully extended throughout (or keep the small bend in your elbows constant)."
         },
-        "time":400,
+        "time":100,
         "stress":"upper body Muscles and back muscles"
     },
     "Prone Back Fly":{
@@ -206,7 +206,7 @@
             "step2":"Slide the glideboard up by pulling on the handles towards the sides of your body and allow yourself back down after a short pause.",
             "step3":"Keep your arms fully extended throughout (or keep the small bend in your elbows constant)."
         },
-        "time":400,
+        "time":120,
         "stress":"Back Muscles"
     },
     "Back Fly with Leg Curl":{
@@ -217,7 +217,7 @@
             "step2":"Slide the glideboard up by pulling on the handles towards the sides of your body while curling your knees and allow yourself back down after a short pause.",
             "step3":"Keep your back straight throughout."
         },
-        "time":400,
+        "time":180,
         "stress":"Back Muscles"
     },
     "Lateral Pulldown":{
@@ -228,7 +228,7 @@
             "step2":"Slide the glideboard up by pulling on the handles towards the sides of your buttocks and allow yourself back down after a short pause.",
             "step3":"Keep your arms fully extended throughout (or keep the small bend in your elbows constant)."
         },
-        "time":400,
+        "time":200,
         "stress":"latissimus dorsi Muscles(horizontal abduction)"
     },
     "Pulldown with Squat with Elbows Flexed":{
@@ -239,7 +239,7 @@
             "step2":"Slide the glideboard up by pulling on the handles towards your abdomen while extending your legs and allow yourself back down after a short pause.",
             "step3":"Keep the small bend in your elbows constant throughout."
         },
-        "time":400,
+        "time":100,
         "stress":"Scapular,latissimus dorsi and Elbow Muscles"
     },
     "Lateral Pulldown with Squat":{
@@ -250,7 +250,7 @@
             "step2":"• Slide the glideboard up by pulling on the handles towards the sides of your body while extending your legs and allow yourself back down after a short pause.",
             "step3":"• Keep the small bend in your elbows constant throughout."
         },
-        "time":400,
+        "time":300,
         "stress":"Back, Biceps and Abs Muscles"
     },
     "Pull-Up":{
@@ -261,7 +261,7 @@
             "step2":"• Slide the glideboard up by curling your elbows until your head is above it and allow yourself back down after a short pause.",
             "step3":"• Breathe out while raising yourself and breathe in while lowering yourself back."
         },
-        "time":400,
+        "time":360,
         "stress":"brachialis and brachioradialis muscles in the arms(located near the elbow) "
     },
     "Chest Press":{
@@ -272,7 +272,7 @@
             "step2":"Slide the glideboard up by pushing on the handles straight forward and allow yourself back down after a short pause.",
             "step3":"Keep your forearms parallel to the floor throughout"
         },
-        "time":400,
+        "time":240,
         "stress":"Pectorals (chest),Forearms"
     },
     "Close-Grip Chest Press":{
@@ -283,7 +283,7 @@
             "step2":"• Slide the glideboard up by pushing on the handles straight forward and towards each other and allow yourself back down after a short pause.",
             "step3":"• Keep your forearms parallel to the floor throughout."
         },
-        "time":400,
+        "time":200,
         "stress":"Chest, shoulders"
     },
     "Wide-Grip Chest Press":{
@@ -294,7 +294,7 @@
             "step2":"• Slide the glideboard up by pushing on the handles straight forward and away from each other and allow yourself back down after a short pause.",
             "step3":"• Keep your forearms parallel to the floor throughout."
         },
-        "time":400,
+        "time":120,
         "stress":"lower pecs(pectoralis)"
     },
     "Incline Push Up":{
@@ -305,7 +305,7 @@
             "step2":"Push yourself up by extending your arms and allow yourself back down after a short pause.",
             "step3":"Keep your back and legs fully extended throughout."
         },
-        "time":400,
+        "time":520,
         "stress":"chest, triceps, shoulders and back muscles. "
     },
     "Chest Fly":{
@@ -316,7 +316,7 @@
             "step2":"Slide the glideboard up by pulling the handles close to each other, arms parallel to the floor other and allow yourself back down after a short pause.",
             "step3":"Keep the small bend in your elbows constant throughout."
         },
-        "time":400,
+        "time":420,
         "stress":"pectoralis major and pectoralis minor"
     },
     "Incline Chest Fly":{
@@ -327,7 +327,7 @@
             "step2":"Slide the glideboard up by pulling the handles close to each other and up in front of your head and allow yourself back down after a short pause.",
             "step3":"Keep the small bend in your elbows constant throughout."
         },
-        "time":400,
+        "time":200,
         "stress":"Anterior deltoids and pectorals top external muscles"
     },
     "Decline Chest Fly":{
@@ -338,7 +338,7 @@
             "step2":"Slide the glideboard up by pulling the handles close to each other and down in front of your abdomen and allow yourself back down after a short pause.",
             "step3":"Keep the small bend in your elbows constant throughout."
         },
-        "time":400,
+        "time":200,
         "stress":"lower portion of the chest"
     },
     "Lateral Chest Fly":{
@@ -349,7 +349,7 @@
             "step2":"Slide the glideboard up by pulling the handle towards the front of your chest and allow yourself back down after a short pause.",
             "step3":"Keep the small bend in your elbows constant throughout."
         },
-        "time":400,
+        "time":200,
         "stress":"posterior deltoid"
     },
     "Pullover":{
@@ -360,7 +360,7 @@
             "step2":"Slide the glideboard up by pulling the handles down towards your thighs and allow yourself back down after a short pause.",
             "step3":"Keep your arms straight throughout"
         },
-        "time":400,
+        "time":300,
         "stress":"latissimus dorsi(large back muscle)"
     },
     "Pullover with Crunch":{
@@ -371,7 +371,7 @@
             "step2":"Slide the glideboard up by pulling the handles down towards your thighs while at the same time rolling your shoulder blades up and allow yourself back down after a short pause.",
             "step3":"Keep your arms straight throughout"
         },
-        "time":400,
+        "time":300,
         "stress":"Abdominal Muscles"
     },
     "Pullover with Twisting Crunch":{
@@ -382,7 +382,7 @@
             "step2":"Slide the glideboard up by pulling one handle down towards the opposite thigh while at the same time rolling your shoulder blades up and allow yourself back down after a short pause.",
             "step3":"Keep your arms straight throughout."
         },
-        "time":400,
+        "time":300,
         "stress":"latissimus dorsi, pecs, triceps and shoulders"
     },
     "Pullover with Squat":{
@@ -393,7 +393,7 @@
             "step2":"Slide the glideboard up by pulling the handles down towards your thighs while at the same time extending your legs and allow yourself back down after a short pause.",
             "step3":"Keep your arms straight throughout."
         },
-        "time":400,
+        "time":340,
         "stress":"back muscle"
     },
     "Single Leg Pullover with Squat":{
@@ -404,7 +404,7 @@
             "step2":"Slide the glideboard up by pulling the handles down towards your thighs while at the same time extending your leg and allow yourself back down after a short pause.",
             "step3":"Keep your arms straight throughout."
         },
-        "time":400,
+        "time":100,
         "stress":"latissimus dorsi Muscle"
     },
     "Leg Curl":{
@@ -415,7 +415,7 @@
             "step2":"Slide the glideboard up by curling your legs and allow yourself back down after a short pause",
             "step3":"Breathe out while curling your legs and breathe in while returning to starting position."
         },
-        "time":400,
+        "time":180,
         "stress":"biceps femoris"
     },
     "Reverse Leg Curl":{
@@ -426,7 +426,7 @@
             "step2":"Raise your buttocks from up the glideboard by straightening your hips and allow yourself back down after a short pause.",
             "step3":"Keep a 90 degree angle in your knees throughout."
         },
-        "time":400,
+        "time":180,
         "stress":"knee joint,quadriceps"
     },
     "Squat":{
@@ -437,7 +437,7 @@
             "step2":"Slide the glideboard up by straightening your legs and allow yourself back down after a short pause.",
             "step3":"Breathe out while straightening your legs and breathe in while returning to starting position."
         },
-        "time":400,
+        "time":600,
         "stress":"Thighs, hips and buttocks, quadriceps femoris muscle"
     },
     "Wide Squat":{
@@ -448,7 +448,7 @@
             "step2":"Slide the glideboard up by straightening your legs and allow yourself back down after a short pause.",
             "step3":"Breathe out while straightening your legs and breathe in while returning to starting position."
         },
-        "time":400,
+        "time":600,
         "stress":"glutes, quadriceps, hamstrings, hip flexors and calves."
     },
     "Single-Leg Squat":{
@@ -470,7 +470,7 @@
             "step2":"Slide the glideboard up by straightening your leg and allow yourself back down after a short pause.",
             "step3":"Breathe out while straightening your leg and breathe in while returning to starting position."
         },
-        "time":400,
+        "time":300,
         "stress":"Quads, Glutes"
     },
     "Single-Leg Squat Kneeling":{
@@ -481,7 +481,7 @@
             "step2":"Slide the glideboard up by straightening your leg and allow yourself back down after a short pause.",
             "step3":"Breathe out while straightening your leg and breathe in while returning to starting position."
         },
-        "time":400,
+        "time":200,
         "stress":"Glutes, Hamstrings, Quads, Core"
     },
     "Jumping Squat":{
@@ -492,7 +492,7 @@
             "step2":"Slide the glideboard up by jumping slightly off the squat stand and allow yourself back down after a short pause.",
             "step3":"Breathe out while jumping and breathe in while returning to starting position."
         },
-        "time":400,
+        "time":180,
         "stress":"lower body, core, and even the upper body."
     },
     "Twisting Squat":{
@@ -503,7 +503,7 @@
             "step2":"Slide the glideboard up by straightening your legs while realigning yourself and allow yourself back down after a short pause",
             "step3":"Breathe out while straightening your legs and breathe in while returning to starting position."
         },
-        "time":400,
+        "time":460,
         "stress":"calves, groin, hamstrings, hip flexors, outer thighs and quads."
     },
     "Jumping and Twisting Squat":{
@@ -514,7 +514,7 @@
             "step2":"Slide the glideboard up by jumping slightly off the squat stand while realigning yourself and allow yourself back down after a short pause",
             "step3":"Breathe out while jumping and breathe in while returning to starting position."
         },
-        "time":400,
+        "time":520,
         "stress":"calves, groin, hamstrings,lower body, core, and even the upper body"
     },
     "Front Lunge":{
@@ -525,7 +525,7 @@
             "step2":"Slide the glideboard up by pushing your foot foward and allow yourself back down after a short pause.",
             "step3":"Keep your back straight and perpendicular to the floor throughout."
         },
-        "time":400,
+        "time":240,
         "stress":"Leg Muscles,glutes"
     },
     "Hip Extension with Knee Stabilized":{
@@ -536,7 +536,7 @@
             "step2":"Slide the glideboard up by pulling your leg down and allow yourself back down after a short pause.",
             "step3":"Keep your leg straight throughout."
         },
-        "time":400,
+        "time":300,
         "stress":"Gluteus maximus and hamstring muscles"
     },
     "Hip Abduction":{
@@ -547,7 +547,7 @@
             "step2":"Slide the glideboard up by pulling your legs away from each other and allow yourself back down after a short pause.",
             "step3":"Keep your legs and back straight throughout."
         },
-        "time":400,
+        "time":120,
         "stress":"Hip abductor muscles"
     },
     "Hip Adduction":{
@@ -558,7 +558,7 @@
             "step2":"Slide the glideboard up by pulling your leg down towards the other one and allow yourself back down after a short pause.",
             "step3":"Keep your leg straight throughout"
         },
-        "time":400,
+        "time":120,
         "stress":"adductor muscle groups on inner thighs and on the outside of your hips."
     },
     "Calf Raise":{
@@ -569,7 +569,7 @@
             "step2":"Slide the glideboard up by pushing on your toes to raise your heels and allow yourself back down after a short pause.",
             "step3":"Breathe out while pushing and breathe in while returning to starting position."
         },
-        "time":400,
+        "time":180,
         "stress":"soleus muscles of the lower leg"
     },
     "Shoulder Press":{
@@ -580,7 +580,7 @@
             "step2":"Slide the glideboard up by extending your arms (pushing yourself up) and allow yourself back down after a short pause.",
             "step3":"Breathe out while pushing and breathe in while returning to starting position."
         },
-        "time":400,
+        "time":240,
         "stress":"Anterior and lateral deltoids"
     },
     "Upright Row":{
@@ -591,7 +591,7 @@
             "step2":"Slide the glideboard up by pulling the handles up towards your shoulders and allow yourself back down after a short pause.",
             "step3":"Keep your back straight throughout."
         },
-        "time":400,
+        "time":300,
         "stress":"upper trapezius, deltoids and biceps"
     },
     "Upright Row with Hyperextension":{
@@ -602,7 +602,7 @@
             "step2":"Slide the glideboard up by pulling the handles up towards your shoulders while raising your back and allow yourself back down after a short pause.",
             "step3":"Breathe out while raising yourself and breathe in while lowering yourself back."
         },
-        "time":400,
+        "time":300,
         "stress":"Upper Trapezius, Posterior Shoulder/Deltoids, Anterior Shoulder/Deltoids, Biceps"
     },
     "Upright Row with Leg Curl":{
@@ -613,7 +613,7 @@
             "step2":"Slide the glideboard up by pulling the handles up towards your shoulders while curling your legs and allow yourself back down after a short pause.",
             "step3":"Keep your back straight throughout."
         },
-        "time":400,
+        "time":300,
         "stress":" back and shoulders muscles"
     },
     "Lateral Deltoid Raise":{
@@ -624,7 +624,7 @@
             "step2":"Slide the glideboard up by pulling the handles outwardly towards the level of your shoulders and allow yourself back down after a short pause.",
             "step3":"Keep your arms fully extended throughout (or keep the small bend in your elbows constant)."
         },
-        "time":400,
+        "time":180,
         "stress":"Lower Muscles"
     },
     "Front Deltoid Raise":{
@@ -635,7 +635,7 @@
             "step2":"Slide the glideboard up by pulling the handles forward until your arms are parallel to the floor and allow yourself back down after a short pause.",
             "step3":"Keep your arms fully extended throughout (or keep the small bend in your elbows constant)."
         },
-        "time":400,
+        "time":180,
         "stress":"anterior deltoid"
     },
     "Wide Grip Front Deltoid Raise":{
@@ -646,7 +646,7 @@
             "step2":"Slide the glideboard up by pulling the handles forward and outward until your arms are parallel to the floor and allow yourself back down after a short pause.",
             "step3":"Keep your arms fully extended throughout (or keep the small bend in your elbows constant)."
         },
-        "time":400,
+        "time":240,
         "stress":"anterior (front) deltoids"
     },
     "Shoulder Extension":{
@@ -657,7 +657,7 @@
             "step2":"Slide the glideboard up by pulling the handles straight back until your arms are perpendicular to the floor and allow yourself back down after a short pause.",
             "step3":"Keep your arms fully extended throughout (or keep the small bend in your elbows constant)."
         },
-        "time":400,
+        "time":300,
         "stress":"Teres major and minor and posterior deltoid muscles."
     },
     "Shoulder Extension with Hyperextension":{
@@ -668,7 +668,7 @@
             "step2":"Slide the glideboard up by pulling the handles straight back until your arms are perpendicular to the floor while raising your upper body and allow yourself back down after a short pause.",
             "step3":"Keep your arms fully extended throughout (or keep the small bend in your elbows constant)."
         },
-        "time":400,
+        "time":100,
         "stress":"lower back (lumbar spine) muscles"
     },
     "Shoulder Extension with Leg Curl":{
@@ -679,7 +679,7 @@
             "step2":"Slide the glideboard up by pulling the handles straight back until your arms are perpendicular to the floor while curling your legs and allow yourself back down after a short pause.",
             "step3":"Keep your arms fully extended throughout (or keep the small bend in your elbows constant)."
         },
-        "time":400,
+        "time":120,
         "stress":" Hamstring muscles"
     },
     "Lateral Arm Pull":{
@@ -690,7 +690,7 @@
             "step2":"Slide the glideboard up by pulling the handle straight back while keeping it at the same height off the floor and allow yourself back down after a short pause.",
             "step3":"Keep your back straight throughout."
         },
-        "time":400,
+        "time":300,
         "stress":"Back muscles"
     },
     "Biceps Curl":{
@@ -701,7 +701,7 @@
             "step2":"Slide the glideboard up by pulling the handles towards your shoulders and allow yourself back down after a short pause.",
             "step3":"Keep your upper arms in the same position throughout."
         },
-        "time":400,
+        "time":360,
         "stress":"Biceps Brachii muscle(long head)"
     },
     "Lateral Single-Arm Biceps Curl":{
@@ -712,7 +712,7 @@
             "step2":"Slide the glideboard up by pulling the handle towards your shoulder and allow yourself back down after a short pause.",
             "step3":"Keep your upper arm in the same position throughout."
         },
-        "time":400,
+        "time":180,
         "stress":"Biceps muscles"
     },
     "Lying Biceps Curl":{
@@ -723,7 +723,7 @@
             "step2":"Slide the glideboard up by pulling the handles towards your shoulders and allow yourself back down after a short pause.",
             "step3":"Keep your upper arms pressed against the slideboard throughout."
         },
-        "time":400,
+        "time":200,
         "stress":"Forearms and shoulder muscles"
     },
     "Biceps Curl with Crunching":{
@@ -734,7 +734,7 @@
             "step2":"Slide the glideboard up by pulling the handles towards your shoulders and allow yourself back down after a short pause.",
             "step3":"Keep your upper body off the glideboard and your upper arms in the same position throughout."
         },
-        "time":400,
+        "time":500,
         "stress":"brachialis and the brachioradialis"
     },
     "Biceps Curl with Hyperextension":{
@@ -745,7 +745,7 @@
             "step2":"Slide the glideboard up by pulling the handles towards your shoudlers while raising your upper body and allow yourself back down after a short pause",
             "step3":"Breathe out while pulling the handles and breathe in while returning to starting position."
         },
-        "time":400,
+        "time":600,
         "stress":"upperarm Muscles"
     },
      "Biceps Curl with Leg Curl":{
@@ -756,7 +756,7 @@
             "step2":"Slide the glideboard up by pulling the handles towards your shoulders while curling your legs and allow yourself back down after a short pause.",
             "step3":"Keep your upper arms in the same position throughout"
         },
-        "time":400,
+        "time":200,
         "stress":"Core, Arms"
     },
     "Chin-Up":{
@@ -778,7 +778,7 @@
             "step2":"Slide the glideboard up by pushing the handles forward towards your kness, straightening your arms and allow yourself back down after a short pause.",
             "step3":"Keep your upper arms in the same position throughout."
         },
-        "time":400,
+        "time":300,
         "stress":"upperarm,triceps,shoulder muscles"
     },
     "Prone Triceps Extension":{
@@ -789,7 +789,7 @@
             "step2":"Slide the glideboard up by pulling the handles back towards the sides of your buttocks, straightening your arms and allow yourself back down after a short pause.",
             "step3":"Keep your upper arms in the same position throughout."
         },
-        "time":400,
+        "time":500,
         "stress":"Triceps muscle group in the upper arm"
     },
     "Kneeling Triceps Extension":{
@@ -811,7 +811,7 @@
             "step2":"Slide the glideboard up by pulling the handle back, straightening your arm and allow yourself back down after a short pause.",
             "step3":"Keep your upper arm and upper body in the same position throughout."
         },
-        "time":400,
+        "time":180,
         "stress":"the long head, the lateral head and the medial head muscles"
     }
 }
