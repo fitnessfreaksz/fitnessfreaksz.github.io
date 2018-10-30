@@ -22,24 +22,24 @@
               <a class="nav-link" href="index.html">Home </a>
             </li>
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle active" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Build Weight</a>
+              <a class="nav-link dropdown-toggle" href="Build.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Build Weight</a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="#fullbody">Full Body</a>
-                <a class="dropdown-item" href="#arms">Arms</a>
-                <a class="dropdown-item" href="#legs">Legs</a>
-                <a class="dropdown-item" href="#shoulder">Sholders</a>
-                <a class="dropdown-item" href="#abs">Abs</a>
+                <a class="dropdown-item" href="#">Full Body</a>
+                <a class="dropdown-item" href="#">Arms</a>
+                <a class="dropdown-item" href="#">Legs</a>
+                <a class="dropdown-item" href="#">Sholders</a>
+                <a class="dropdown-item" href="#">Abs</a>
               </div>
             </li>
 			  <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Lose Weight</a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="#belly">Belly Fat</a>
-                <a class="dropdown-item" href="#getinshape">Get To Shape</a>
-                <a class="dropdown-item" href="#cardio">Cardio</a>
+                <a class="dropdown-item" href="#">Belly Fat</a>
+                <a class="dropdown-item" href="#">Get To Shape</a>
+                <a class="dropdown-item" href="#">Cardio</a>
               </div>
             </li>
-			  <li class="nav-item">
+			  <li class="nav-item active">
 			  <a href="bmiindex.html" class="nav-link">BMI Calculator<span class="sr-only">(current)</span></a>
 			  </li>
 			
@@ -53,48 +53,29 @@
     </nav>
 	  
 <!--	  Navigatoin Completed-->
-	 
-	  <div class="jumbotron bg-info position-sticky text-center">
-	  <h1>Timer: </h1>
-	  <span class="timer" id="time">00:00</span> minutes!
-	  </div>
-	  
-	  
-      <div class="container-fluid">
-	  <div class="row">
-		  <div class="col-md-4 col-sm-12 margin-top-10">
-		      <div class="card">
-				<img class="card-img-top" src="images/400X200.gif" alt="Card image cap">
-				<div class="card-body">
-				  <h5 class="card-title">Arms</h5>
-				  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-				  <a onClick="startTimer(5);" class="btn btn-primary">Start</a>
-				</div>
-          	</div>
-		  </div>
-		  
-		  <div class="col-md-4 col-sm-12 margin-top-10">
-		      <div class="card">
-				<img class="card-img-top" src="images/400X200.gif" alt="Card image cap">
-				<div class="card-body">
-				  <h5 class="card-title">Arms</h5>
-				  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-				  <a onClick="startTimer(5);" class="btn btn-primary">Start</a>
-				</div>
-          	</div>
-		  </div>
-		  
-		  
-		  
-		  
-		  
-		  
-		  
-		  </div>
-	  
-	  
-	  </div>
-        
+	  <form class="jumbotron form-group" name="bmiForm">
+<h5>Your Weight(kg): </h5>
+		  <input  class="form-control mb-2 mr-sm-2" type="text" name="weight" size="10"><br />
+		  <h5>Your Height(cm): </h5>
+		  <input class="form-control mb-2 mr-sm-2" type="text" name="height" size="10"><br />
+<input class="btn btn-primary mb-2" type="button" value="Calculate BMI" onClick="calculateBmi()"><br />
+		  <div class="row">
+			  <div class="col-6">
+		<h5>Your BMI: </h5>
+		  <input type="text" name="bmi" size="10"><br />
+		  <h5>This Means:</h5>
+		  <input type="text" name="meaning" size="25"><br />
+<input type="reset" value="Reset" />
+				  </div>
+			  <div class="col-6">
+				  <h5>Your Recomendations</h5>
+			  <ul id="ulid">
+		  <li id="aid"></li>
+		  </ul>
+			  
+			  </div>
+			  </div>
+</form>
 	  
 	  
 	  
