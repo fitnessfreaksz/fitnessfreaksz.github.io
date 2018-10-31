@@ -11,8 +11,8 @@
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-      <div class="container">
-        <a class="navbar-brand" href="#">Fitness Freakersz</a>
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#"><img style="width: 100%;" src="img/logoott.png"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
@@ -43,9 +43,10 @@
 	  
 <!--	  Navigatoin Completed-->
 	 
-	  <div class="jumbotron bg-info position-sticky text-center">
+	  <div class="jumbotron bg-info text-center">
 	  <h1>Timer: </h1>
-	  <span class="timer" id="time">00:00</span> minutes!
+    <span class="timer" id="time">00:00</span> minutes!
+    <button class="btn" onclick="stop();" >Stop</button>
 	  </div>
 	  
 	  
@@ -53,7 +54,7 @@
 	  <div class="row">
 		  <div class="col-md-4 col-sm-12 margin-top-10">
 		      <div class="card">
-				<img class="card-img-top" src="images/400X200.gif" alt="Card image cap">
+				<img class="card-img-top" src="img/worksouts/crunch.jpg" alt="Card image cap">
 				<div class="card-body">
           <h5 class="card-title">Crunch</h5>
           <ul>
@@ -69,7 +70,7 @@
 		  
 		  <div class="col-md-4 col-sm-12 margin-top-10">
 		      <div class="card">
-				<img class="card-img-top" src="images/400X200.gif" alt="Card image cap">
+				<img class="card-img-top" src="img/worksouts/crunch2.jpg" alt="Card image cap">
 				<div class="card-body">
 				  <h5 class="card-title">Resisted Crunch</h5>
           <ul>
@@ -445,21 +446,18 @@
     </div>
 	  </div>
          <hr>
-    <footer class="text-center bg-dark text-white">
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-6 text-center">
-            <p>Copyright ©Sonet Project Work.</p>
+         <footer class="text-center bg-dark text-white">
+          <div class="container">
+            <div class="row">
+              <div class="col-6 text-center">
+                <p>Copyright ©Sonet Project Work.</p>
+              </div>
+          <div class="col-6">
+                <a href="https://fitnessfreaksz.github.io">Fitness Freakersz</a>
           </div>
-			<div class="col-6">
-			<address>
-            <strong>Fitness Freakersz:</strong>
-            <a href="https://fitnessfreaksz.github.io/">fitnessfreakersz@github.io</a>
-          </address>
-			</div>
-        </div>
-      </div>
-    </footer>
+            </div>
+          </div>
+        </footer>
     <script src="js/myscripts.js"></script>
 	  
     <script src="js/jquery-3.2.1.min.js"></script>

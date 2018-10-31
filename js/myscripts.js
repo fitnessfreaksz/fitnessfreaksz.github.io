@@ -43,17 +43,21 @@ function addgood(){
 
 
 
-
+var myInter;
+display = document.getElementById("time")
 //CoutnDown Timer
-
+function stop(){
+    clearInterval(myInter);
+    display.textContent="00:00";
+}
 
 function startTimer(duration) {
+    clearInterval(myInter);
     var timer = duration, minutes, seconds;
-	display = document.getElementById("time")
-    var myInter=setInterval(function () {
+	
+    myInter=setInterval(function () {
         minutes = parseInt(timer / 60, 10)
         seconds = parseInt(timer % 60, 10);
-
         minutes = minutes < 10 ? "0" + minutes : minutes;
         seconds = seconds < 10 ? "0" + seconds : seconds;
 
