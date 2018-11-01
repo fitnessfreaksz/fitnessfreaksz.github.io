@@ -67,3 +67,6 @@ a:hover{
     border: none;
     cursor: pointer;
 }
+.text-big{
+    font-size: 1000px;
+}
