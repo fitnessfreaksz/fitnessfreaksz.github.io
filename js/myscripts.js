@@ -27,7 +27,7 @@ alert("Please Fill in everything correctly")
 
 function addhigh(){
 	var high=document.getElementById("ulid")
-	high.innerHTML="<li> Check Out Body Lose Plans down</li> <a href='Lose.html'>Click Here</a>"
+	high.innerHTML="<li> Check Out Body Lose Plans down</li> <a href='build.html'>Click Here</a>"
 	
 }
 function addlow(){
